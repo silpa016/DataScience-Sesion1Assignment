@@ -1,0 +1,12 @@
+import math
+pi = math.pi
+r = (12/2)
+type(r)
+float
+
+v=(4/3)*(pi)*r**3
+type(v)
+float
+
+print(v)
+904.7786842338603
